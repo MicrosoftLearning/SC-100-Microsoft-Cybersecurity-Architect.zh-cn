@@ -6,13 +6,13 @@ casestudy:
 
 ## <a name="case-study-design-an-identity-security-solution"></a>案例研究：设计标识安全解决方案
 
-Tailwind Traders is a fictitious home improvement retailer. It operates retail hardware stores across the globe and online. The Tailwind Traders CISO is aware of the opportunities offered by Azure but also understands the need for strong security and solid cloud architecture. Without strong security and a great point of reference architecture, the company may have difficulty managing the Azure environment and costs, which are hard to track and control. The CISO is interested in understanding how Azure manages and enforces security standards.
+Tailwind Traders 是一家虚构的家装零售商。 它在全球范围内线上运营五金零售店。 Tailwind Traders CISO 了解 Azure 提供的机会，但也了解对强大的安全性和可靠的云体系结构的需求。  如果没有强大的安全性和出色的参考体系结构，公司可能难以管理 Azure 环境和成本，难以跟踪和控制。 CISO 有兴趣了解 Azure 如何管理和强制实施安全性标准。
 
 ## <a name="requirements-conditional-access"></a>要求：条件访问
 
-Tailwind Traders is planning on making some significant changes to their Identity Security Strategy. They have asked for your assistance with recommendations and questions. Here are the specific requirements.
+Tailwind Traders 计划对其标识安全策略进行一些重大更改。 他们请求你就建议和问题提供帮助。 下面是具体要求。
 
-The company has a new security optimization project for customer environments. The CISO wants to ensure that all available Privileged Users are controlled in the cloud.
+该公司为客户环境提供了新的安全优化项目。 CISO 需要确保所有可用的特权用户都可以在云中得到控制。
 
 ## <a name="design-tasks"></a>设计任务
 

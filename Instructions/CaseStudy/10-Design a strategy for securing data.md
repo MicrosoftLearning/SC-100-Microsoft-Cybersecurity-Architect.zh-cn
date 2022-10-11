@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: CaseStudy：数据安全性
+  module: 'Module 10: Design a strategy for securing data'
+---
+
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
 ## <a name="case-study-data-security"></a>案例研究：数据安全性
@@ -12,4 +18,4 @@ Tailwind Traders 计划对其数据安全策略进行一些重大更改。 该�
 
 -   Tailwind Traders 可以评估哪些内容来设计数据安全策略？ 评估标准并解释决策过程。
 -   可以使用哪些安全策略来保护传输中的数据？
-- 如何强制所有用户使用数据安全性来保护其在 Microsoft Azure 中的标识、数据和其他资产？
+- 如何对所有用户强制实施“数据安全”来保护其在 Microsoft Azure 中的标识、数据和其他资产？
