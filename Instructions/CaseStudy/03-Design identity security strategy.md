@@ -3,6 +3,7 @@ casestudy:
   title: 案例研究：设计标识安全解决方案
   module: 'Module 3: Design identity security strategy'
 ---
+本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
 ## <a name="case-study-design-an-identity-security-solution"></a>案例研究：设计标识安全解决方案
 
