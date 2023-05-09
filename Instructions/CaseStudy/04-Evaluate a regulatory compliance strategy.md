@@ -8,16 +8,16 @@ casestudy:
 
 ## <a name="case-study-evaluate-regulatory-compliance"></a>案例研究：评估监管合规性
 
-Contoso Pharma is an international pharmaceutical industry with a presence in North America and Europe. Contoso Pharma has workloads on-premises and in Azure. The goal is that in the next two years, all workloads will be fully in Azure and there will be minimum workloads on-premises. Below is a list of their major workloads:
+Contoso Pharma 是一家国际制药公司，业务遍及北美和欧洲。 Contoso Pharma 在本地和 Azure 中具有工作负载。  它的目标是在未来两年内，所有工作负载都将完全位于 Azure 中，并且本地的工作负载最少。  下面是其主要工作负载的列表： 
 
 - VM（Windows 和 Linux） 
 - 存储帐户
 - 密钥保管库
 - VM 上的 SQL PaaS 和 SQL 
 
-Contoso Pharma also has a Site-to-Site VPN between the headquarters in Redmond and the main office in London. This VPN is used to allow resources on-premises to communicate.
+Contoso Pharma 在雷德蒙德总部和伦敦总办事处之间还有一个站点到站点 VPN。  此 VPN 用于允许本地资源进行通信。
 
-Contoso Pharma has a legacy environment in Redmond composed by a couple of Windows Server 2012 running a Web Server that is used by the application that queries the database to check for customer's information. Upon investigation it was noted that the communication of the legacy web server with the database is done via HTTP.
+Contoso Pharma 在雷德蒙德设置有一个旧环境，由几个运行 Web 服务器的 Windows Server 2012 组成，应用程序使用该服务器查询数据库以检查客户信息。 经调查发现，旧 Web 服务器与数据库的通信是通过 HTTP 完成的。
 
 ### <a name="design-requirements"></a>设计要求
 
@@ -38,9 +38,9 @@ Contoso Pharma 根据其工作负载有不同的合规性需求，如下表所�
 
 ### <a name="design-tasks"></a>设计任务
 
-* To ensure that Contoso Pharma can analyze their compliance status over time, which tool should be utilized? Select the most appropriate option.
+* 为了确保 Contoso Pharma 可以逐步分析其合规性状态，应使用哪种工具？ 请选择最合适的选项。
 * 应使用 Azure 中的哪个服务来强制工作负载所有者仅创建符合所需标准的资源？
 * 应使用哪个选项来确保当工作负载所有者创建资源时，他们将数据保存在正确的地理位置？
 * Contoso Pharma 如何验证预配的 VM 是否符合 PCI DSS，如果不符合，需要做什么来补救？
-* Contoso Pharma 是一家国际制药公司，业务遍及北美和欧洲。
+* 数据加密是满足隐私要求的一个必要组成部分。 在哪些数据阶段必须应用加密？ 
 * 可以使用哪个 Azure 服务在所有工作负载中强制实施数据加密？

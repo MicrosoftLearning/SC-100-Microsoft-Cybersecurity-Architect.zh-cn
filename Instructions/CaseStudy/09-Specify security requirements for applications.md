@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: CaseStudy：应用程序要求
+  module: 'Module 9: Specify security requirements for applications'
+---
+
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
 ## <a name="case-study-requirements-for-applications"></a>案例研究：对应用程序的要求

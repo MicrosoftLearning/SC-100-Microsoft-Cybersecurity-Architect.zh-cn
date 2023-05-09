@@ -8,13 +8,13 @@ casestudy:
 
 ## <a name="case-study-remote-access-and-endpoint-strategy"></a>案例研究：远程访问和终结点策略
 
-Tailwind Traders is a fictitious home improvement retailer. It operates retail hardware stores across the globe and online. The Tailwind Traders CISO is aware of the opportunities offered by Azure, but also understands the need for strong security and solid cloud architecture. Without strong security and a great point of reference architecture, the company may have difficulty managing the Azure environment and costs, which are hard to track and control. The CISO is interested in understanding how Azure manages and enforces security standards.
+Tailwind Traders 是一家虚构的家装零售商。 它在全球范围内线上运营五金零售店。 Tailwind Traders CISO 了解 Azure 提供的机会，但也了解对强大的安全性和可靠的云体系结构的需求。 如果没有强大的安全性和出色的参考体系结构，公司可能难以管理 Azure 环境和成本，难以跟踪和控制。 CISO 有兴趣了解 Azure 如何管理和强制实施安全性标准。
 
 ### <a name="requirements-remote-access"></a>要求：远程访问
 
 新的 CIO 希望确保远程工作人员可以连接到云资源，而无需在其云工作负载上公开管理端口，并确保远程分支机构能够与公司总部始终保持联系。
 
-The CISO understands that in the current threat landscape, most of the attacks are targeting the endpoints. He needs to establish a new security baseline to harden all endpoints and provide a seamless experience to deploy these baselines across the clients. The CISO also wants to empower the SOC Team to perform investigations on the endpoints to better understand the root cause of an attack.
+CISO 了解到，在当前的威胁形势下，大多数攻击都是针对终结点的。 他需要建立一个新的安全基线来强化所有终结点，并提供在所有客户端部署这些基线的无缝体验。  CISO 还希望使 SOC 团队能够对终结点执行调查，以便更好地了解攻击的根本原因。
 
 ### <a name="design-tasks"></a>设计任务
 

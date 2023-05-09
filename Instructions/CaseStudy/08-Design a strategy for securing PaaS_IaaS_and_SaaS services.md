@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 为保护 PaaS、IaaS 和 SaaS 服务设计策略
+  module: 'Module 8: Design a strategy for securing PaaS_IaaS_and_SaaS services'
+---
+
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
 ## <a name="case-study-securing-paas-iaas-and-saas-services"></a>案例研究：保护 PaaS、IaaS 和 SaaS 服务
@@ -10,7 +16,7 @@ Tailwind Traders 是一家虚构的家装零售商。 它在全球范围内线�
 
 -   实现一个云安全状况管理平台，可为 VM 和容器提供本机漏洞评估，并支持针对 Cosmos DB 的威胁检测
 -   为其 Azure 工作负载实现一个数据分类系统，该系统能够对 SQL 数据库和存储帐户中的数据进行分类和标记
--   为 Microsoft 365 中的 SaaS 工作负载实现一个安全基线
+-   为 Microsoft 365 中的 SaaS 工作负载实现一个安全基线 
 -   支持 IoT 工作负载的安全态势管理和威胁检测
 
 ## <a name="design-tasks"></a>设计任务
