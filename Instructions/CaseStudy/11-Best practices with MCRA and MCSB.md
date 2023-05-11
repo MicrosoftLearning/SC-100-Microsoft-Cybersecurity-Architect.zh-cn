@@ -3,9 +3,10 @@ casestudy:
   title: 案例研究：使用 MCRA 和 MCSB 的最佳做法
   module: 'Module 11: Recommend security best practices with MCRA and MCSB'
 ---
+
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
-## <a name="case-study-best-practices-with-mcra-and-mcsb"></a>案例研究：使用 MCRA 和 MCSB 的最佳做法
+## 案例研究：使用 MCRA 和 MCSB 的最佳做法
  
 CONTOSO 是一家医疗服务公司，它的主要办事处位于芝加哥和英国伦敦。  
 这家公司在它位于芝加哥和英国伦敦大都会区的机构为客户提供医疗保健服务。  Contoso 机构涵盖多家医院，医院有医生、护士和其他医疗保健专业人员。 Contoso 已经开始在公司范围将所有关键服务迁移到云。 本次迁移包括本地服务器、VM 以及支持的管理和监视设备。
@@ -23,7 +24,7 @@ Contoso 启动了云迁移，但由于合规性和监管要求，一些数据和
 移动设备。 这些数据使用专有存储加密进行保护，  
 并且每个医疗保健专业人员在访问数据之前都需要使用本地存储的凭据登录到他们的设备。 
  
-### <a name="requirements"></a>要求
+### 要求
 
 随着云迁移的继续和扩展，Contoso 计划将所有本地  
 数据和应用程序迁移到云，但范围外的应用程序除外。 
@@ -44,7 +45,7 @@ Contoso 启动了云迁移，但由于合规性和监管要求，一些数据和
 支持来自运行各种桌面和移动操作系统（包括 Windows、macOS、  
 Android 等）的设备的安全 P2S 连接。  
 
-### <a name="design-tasks"></a>设计任务
+### 设计任务
 
 * Contoso 需要哪种 Defender 计划来满足其业务和安全要求？ 
 * Contoso 可以执行什么操作来验证所有传入访问同时遵循零信任方法？ 
