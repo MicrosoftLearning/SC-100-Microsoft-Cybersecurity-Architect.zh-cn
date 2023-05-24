@@ -1,4 +1,4 @@
-# <a name="sc-100-microsoft-cybersecurity-expert"></a>SC-100：Microsoft 网络安全专家
+# SC-100：Microsoft 网络安全专家
 
 此存储库包含针对 SC-100 的案例研究：Microsoft 网络安全架构师认证
 
@@ -13,3 +13,6 @@
 * [为保护 PaaS、IaaS 和 SaaS 服务设计策略](/Instructions/CaseStudy/08-Design%20a%20strategy%20for%20securing%20PaaS_IaaS_and_SaaS%20services.md)
 * [为应用程序指定安全要求](/Instructions/CaseStudy/09-Specify%20security%20requirements%20for%20applications.md)
 * [为保护数据设计策略](/Instructions/CaseStudy/10-Design%20a%20strategy%20for%20securing%20data.md)
+* [使用 MCRA 和 MCSB 的最佳做法](/Instructions/CaseStudy/11-Best%20practices%20with%20MCRA%20and%20MCSB.md)
+* [推荐使用 CAF 的安全方法](/Instructions/CaseStudy/12-Secure%20methodology%20with%20CAF.md)
+* [使用 Microsoft 安全最佳做法推荐勒索软件策略](/Instructions/CaseStudy/13-Ransomware%20strategy.md)
