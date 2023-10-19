@@ -1,16 +1,16 @@
 ---
 casestudy:
-  title: CaseStudy：体系结构最佳做法
+  title: 案例研究：体系结构最佳做法
   module: 'Module 6: Understand architecture best practices'
 ---
 
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
-## <a name="case-study-architecture-best-practices"></a>案例研究：体系结构最佳做法
+## 案例研究：体系结构最佳做法
 
 Tailwind Traders 是一家虚构的家装零售商。 它在全球范围内线上运营五金零售店。 Tailwind Traders CISO 了解 Azure 提供的机会，但也了解对强大的安全性和可靠的云体系结构的需求。 如果没有强大的安全性和出色的参考体系结构，公司可能难以管理 Azure 环境和成本，难以跟踪和控制。 CISO 有兴趣了解 Azure 如何管理和强制实施安全性标准。
 
-### <a name="requirements-strategy-and-secure-remote-access"></a>要求：策略和安全远程访问
+### 要求：策略和安全远程访问
 
 此转换的关键要求之一是以安全的方式为远程工作人员提供支持。 新的 CIO 希望确保远程工作人员使用多重身份验证，如果他们要拜访客户，应该根据他们的地理位置限制访问。 CIO 还希望确保由 AI/机器人团队牵头的所有孵化项目都在一个隔离的环境中进行测试，以避免对生产环境造成干扰。
 
@@ -23,7 +23,7 @@ Tailwind Traders 是一家虚构的家装零售商。 它在全球范围内线�
 
 为了实现这一愿景，新的 CISO 需要使公司的安全策略现代化。 安全策略应包括对现代技术环境、当前威胁形势和安全社区资源等各个方面的考虑。
 
-### <a name="design-tasks"></a>设计任务
+### 设计任务
 
 * 安全策略
    -   在此项目中应使用哪些安全策略原则？
@@ -31,3 +31,4 @@ Tailwind Traders 是一家虚构的家装零售商。 它在全球范围内线�
 * 验证解决方案
    -   Tailwind Traders 应利用哪种解决方案来了解 Azure 中资源的安全状态和风险？
    -   Tailwind Traders 应利用哪个产品来定义一致的安全策略并启用控制？
+* 应使用哪种云安全功能，使 AI/机器人团队在不破坏生产环境的情况下测试其应用？
