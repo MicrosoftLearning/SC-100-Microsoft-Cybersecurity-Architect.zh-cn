@@ -1,12 +1,12 @@
 ---
 casestudy:
-  title: 案例研究：评估安全状况
-  module: 'Module 5: Evaluate security posture and recommend technical strategies'
+  title: 案例研究：设计安全态势管理和威胁情报的解决方案
+  module: 'Module 13: Design solutions for security posture management in hybrid and multi-cloud environments'
 ---
 
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
 
-## 案例研究：评估安全状况
+## 案例研究：设计混合和多云环境中安全态势管理解决方案
 
 Tailwind Traders 是一家现代商务公司。 30 多年来，该公司一直是颇受欢迎的零售商。 如今已拥有 50 多家实体店。 几年前，该公司的首席执行官 (CEO) 预见到了零售业的变革，并收购了一家在利基市场蓬勃发展且颇具竞争力的电子商务初创公司。  如今，该公司已被视为以客户为中心的本地店面的创新领导者。
 

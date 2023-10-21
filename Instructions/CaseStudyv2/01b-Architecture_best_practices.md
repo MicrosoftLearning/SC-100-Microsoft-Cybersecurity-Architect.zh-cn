@@ -1,7 +1,7 @@
 ---
 casestudy:
   title: 案例研究：体系结构最佳做法
-  module: 'Module 6: Understand architecture best practices'
+  module: 'Module 01: Introduction to Zero Trust and best practice frameworks'
 ---
 
 本案例研究练习旨在提供执行与本模块中学习的主题相关的一些概念设计任务的经验。
