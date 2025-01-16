@@ -12,7 +12,7 @@ Contoso Pharma 是一家国际制药公司，业务遍及北美和欧洲。 Cont
 
 - VM（Windows 和 Linux）
 - 存储帐户
-- Key Vault
+- 密钥保管库
 - VM 上的 SQL PaaS 和 SQL
 
 Contoso Pharma 在雷德蒙德总部和伦敦总办事处之间还有一个站点到站点 VPN。 此 VPN 用于允许本地资源进行通信。
