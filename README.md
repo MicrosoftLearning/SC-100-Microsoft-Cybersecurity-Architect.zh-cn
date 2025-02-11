@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # SC-100：Microsoft 网络安全专家
 
 此存储库包含针对 SC-100 的案例研究：Microsoft 网络安全架构师认证
