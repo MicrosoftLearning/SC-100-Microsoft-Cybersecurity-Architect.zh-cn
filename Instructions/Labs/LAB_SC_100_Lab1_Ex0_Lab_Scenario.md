@@ -1,3 +1,0 @@
-# 实验室方案
-
-你是 Contoso Ltd. 的 IT 部门成员 Allan Deyoung。你最近转岗到了 IT 安全部门。 你的新职责是评估 Contoso 的零信任就绪情况，并制定一个行动计划，以根据零信任支柱建立零信任提议。 Contoso 是一家大型跨国公司，在多个行业都具有全球影响力。 该公司的云足迹十分广泛，并采用混合基础结构。 Contoso 的安全运营中心 (SOC) 负责监视和响应整个企业的安全事件。 SOC 配备了安全分析师、安全工程师和网络工程师。 SOC 将 Microsoft Sentinel 用作其安全信息和事件管理 (SIEM) 解决方案。 SOC 具有一个 Log Analytics 工作区，用于从整个企业收集和分析安全日志。 SOC 要求根据最低特权原则保护对 Log Analytics 工作区的访问。 SOC 中有两个不同的角色：安全分析师和安全工程师，每个角色具有不同的权限要求。 网络团队需要访问 Cisco Umbrella 日志，但也只需要访问 Cisco Umbrella 日志。
